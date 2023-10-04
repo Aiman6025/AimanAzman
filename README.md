@@ -13,4 +13,16 @@ Then, PowerBi used for data visualization.
 ## Page 2
 ![Dashboard_P4](https://github.com/AimanAzmanCoding/Portfolio-Project/assets/146878990/1e523943-2850-4a2c-8b19-d0259f171025)
 
+## Project 2: [Dataset based on Pizza Sales](https://github.com/AimanAzmanCoding/Portfolio-Project/tree/main/Project%202%20(Pizza%20Sales))
+This is my first personal project for learning to improve my data analytics skills.
+
+* Data was taken from kaggle [Pizza Place Sales](https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales)
+* Transform and proccessed raw data using DAX and Excel to ensure the data completeness and validity
+* Performed data cleaned up using Power Query
+* Created dashboard with PowerBi show the data about total sales, most sold pizza, the top pizza size, earliest time buying, and others.
+
+## Page 1
+![Dashboard_P1](https://github.com/AimanAzmanCoding/Portfolio-Project/assets/146878990/c7ad1d1b-2ffd-46e0-a7d6-e0cbc929199d)
+## Page 2
+![Dashboard_P2](https://github.com/AimanAzmanCoding/Portfolio-Project/assets/146878990/2e48dee2-a855-4af7-b370-01f472360851)
 
